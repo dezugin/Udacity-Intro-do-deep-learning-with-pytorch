@@ -1,2 +1,5 @@
-intro_deep_learning/convolutional_neural_networks/data/
+convolutional_neural_networks/data/
+data/
+data/MNIST/
+data/MNIST/raw
 model.pt
