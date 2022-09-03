@@ -3,3 +3,4 @@ intro_pytorch/Cat_Dog_data/
 convolutional_neural_networks/data/
 convolutional_neural_networks/data/MNIST/
 convolutional_neural_networks/data/MNIST/raw
+convolutional_neural_networks/model.pt
