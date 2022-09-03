@@ -4,3 +4,4 @@ convolutional_neural_networks/data/
 convolutional_neural_networks/data/MNIST/
 convolutional_neural_networks/data/MNIST/raw
 convolutional_neural_networks/model.pt
+convolutional_neural_networks/data
